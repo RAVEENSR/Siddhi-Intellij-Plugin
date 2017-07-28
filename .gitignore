@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
-.idea
-.gradle
-Siddhi Plugin.iml
-build
+/.idea/
+/.gradle/
+/build/
+/Siddhi Plugin.iml
